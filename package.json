@@ -1,0 +1,14 @@
+{
+  "name": "@kaheetonaa/poi-map",
+  "main": "d6a3bcd33999bf0f@163.js",
+  "version": "163.0.0",
+  "homepage": "https://observablehq.com/@kaheetonaa/poi-map",
+  "author": {
+    "name": "Huy Nguyen",
+    "url": "https://observablehq.com/@kaheetonaa"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
